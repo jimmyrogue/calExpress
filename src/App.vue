@@ -1,5 +1,12 @@
+<!--
+ * @Description: 
+ * @version: 
+ * @Author: jimmy
+ * @Date: 2022-02-11 17:47:21
+ * @LastEditors: jimmy
+ * @LastEditTime: 2022-02-11 19:14:18
+-->
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
